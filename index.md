@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8">
     <title>Abhinav's Site</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="styles.css">
     <link rel="icon" href="favicon.ico">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Merriweather:wght@300&family=Montserrat:wght@200&display=swap" rel="stylesheet">
